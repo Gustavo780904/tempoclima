@@ -1,0 +1,30 @@
+body {
+    background-image: linear-gradient( rgba(9, 13, 68, 0.815), rgba(255, 138, 5, 0.541)), url("/imagens/cabecalho4.jpg");
+    /* overflow: hidden; */
+
+}
+h1{
+    font-size: 70px;
+    margin: 10px;
+    color: #ccc;
+}
+.icons {
+    color: #ccc;
+    padding: 20px;
+    font-size: 100px;
+}
+table{
+    margin-top: 10px;
+   
+}
+.table-scrollable {
+    max-height:400px;
+    overflow-y:auto;
+}
+input{
+    background-color: #ccc;
+    margin-left: 10px;
+}
+label{
+    color: #ccc;
+}
